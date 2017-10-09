@@ -1,0 +1,2 @@
+coverage_gaps,end_date,expected_sentences,expected_stories,has_active_feed,is_healthy,media_health_id,media_id,num_sentences,num_sentences_90,num_sentences_w,num_sentences_y,num_stories,num_stories_90,num_stories_w,num_stories_y,start_date
+172,2017-07-10 00:00:00-04:00,149071.02,996.95,1,0,79322769,2,4542,27360.89,9767.71,49170.08,167,554.57,308.43,708.45,2012-04-30 00:00:00-04:00

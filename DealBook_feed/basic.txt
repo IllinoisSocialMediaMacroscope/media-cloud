@@ -1,0 +1,1 @@
+{"feed_status": "active", "feed_type": "syndicated", "feeds_id": 2, "last_attempted_download_time": "2017-10-08 10:05:52.005191-04:00", "last_new_story_time": "2017-08-09 19:13:56.695166-04:00", "last_successful_download_time": "2017-10-08 10:06:59-04:00", "media_id": 1, "name": "DealBook", "url": "http://dealbook.blogs.nytimes.com/rss2.xml"}

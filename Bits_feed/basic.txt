@@ -1,0 +1,1 @@
+{"feed_status": "active", "feed_type": "syndicated", "feeds_id": 1, "last_attempted_download_time": "2017-10-05 04:18:59.100079-04:00", "last_new_story_time": "2017-01-29 06:30:07.110671-05:00", "last_successful_download_time": "2017-10-05 04:20:03-04:00", "media_id": 1, "name": "Bits", "url": "http://bits.blogs.nytimes.com/rss2.xml"}
