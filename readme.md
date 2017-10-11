@@ -6,6 +6,10 @@
 - api documentation: https://github.com/berkmancenter/mediacloud/blob/master/doc/api_2_0_spec/api_2_0_spec.md
 - python sdk (no documentation though): https://github.com/mitmedialab/MediaCloud-API-Client
 
+## Register on the website to use this script
+- registration link: https://sources.mediacloud.org/#/user/signup
+- After you have registered and activated, find your **API_Key** here: https://sources.mediacloud.org/#/user/profile
+
 ## Profile and Overview
 
 
