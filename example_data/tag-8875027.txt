@@ -1,0 +1,13 @@
+{
+  "description": "Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users. Created in October 2010.",
+  "is_static": 1,
+  "label": "U.S. Mainstream Media",
+  "show_on_media": 1,
+  "show_on_stories": null,
+  "tag": "U.S. Mainstream Media",
+  "tag_set_description": "Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics.",
+  "tag_set_label": "Collections",
+  "tag_set_name": "collection",
+  "tag_sets_id": 5,
+  "tags_id": 8875027
+}

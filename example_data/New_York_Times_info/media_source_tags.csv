@@ -1,0 +1,17 @@
+description,label,show_on_media,show_on_stories,tag,tag_set,tag_sets_id,tags_id
+,,0,,3,usnewspapercirculation,3,109
+,,0,,include,word_cloud,17,6071565
+,,0,,default,word_cloud,17,6729599
+Top U.S. mainstream media according Google Ad Planner's measure of unique monthly users. Created in October 2010.,U.S. Mainstream Media,1,,U.S. Mainstream Media,collection,5,8875027
+"A site that is a mainstream media outlet, such as The New York Times and The Washington Post; an online-only news outlet, such as Slate, Salon, or the Huffington Post; or a citizen journalism or non-profit news outlet, such as Global Voices or ProPublica",General News,1,,General Online News Media,media_type,1099,8878416
+Top 50 online news sites according to Pew / Comscore as of 2015.,U.S. Top Online News,1,,pew_top_50_news_20160225,collection,5,9139487
+"Sources in English listed as ""national"" for every country in the ABYZ directory of online news sources. This contains around 1,500 sources. ",ABYZ Global English Sources ,1,,ABYZ_Global_English_Sources_,collection,5,9272347
+Published in United States,United States,,,pub_USA,pub_country,1935,9353663
+dfasd,cindy csv 2,0,,cindy csv 2,collection,5,9357186
+testing undefiends 8,cindy collection test and more,0,,cindy_collection_test_and_more,collection,5,9360513
+Sources categorized into the Center Left quintile based on relative number of tweets of election story urls by Clinton vs. Trump retweeters.  This version of the set has low certainity for individual members and so should be used only for aggregate question rather than the labeling of individual members.,Center Left,1,,center_left,retweet_partisanship_2016_count_10,1959,9360521
+Sources categorized into the Center Left quintile based on relative number of tweets of election story urls by Clinton vs. Trump retweeters.  This version of the set has low numbers of members but high statistical certainity and so can be used to label individual members.,Center Left,,,center_left,retweet_partisanship_2016_count_200,1960,9360526
+"Published in New York, USA","NY, USA",0,1,USA_NY,pub_state,1962,9360589
+null,Geo-diversity Study US Sources,0,,Geo_diversity_Study_US_Sources,collection,5,9361368
+Media sources for which the primary language is English,English,,,en,primary_language,1969,9361422
+Media sources for which the majority subject country is United States.,United States,,,United States,subject_country,1970,9361424

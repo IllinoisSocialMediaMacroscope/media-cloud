@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; DealBook</title>
+    <link>https://www.nytimes.com/pages/business/dealbook/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 11 Oct 2017 21:50:19 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; DealBook</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/business/dealbook/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>With Deal-Making in the Doldrums, Goldman Tries Something New</title>
+      <link>https://www.nytimes.com/2017/10/11/business/dealbook/goldman-sachs-dealmaking.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/11/business/dealbook/goldman-sachs-dealmaking.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/11/business/dealbook/goldman-sachs-dealmaking.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/12/business/12DB-GOLDMANVIEWS1/12DB-GOLDMANVIEWS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lloyd C. Blankfein, the chief executive of Goldman Sachs. Earnings from the bank&#x2019;s trading operation have been lackluster.</media:description>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <description>Goldman Sachs has a small team cooking up acquisition ideas for big clients. It&#x2019;s an experiment that could bolster revenue for Goldman&#x2019;s trading operation.</description>
+      <dc:creator>JOHN FOLEY</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 19:40:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Goldman Sachs Group Inc</category>
+    </item>
+    <item>
+      <title>Fed Still Puzzled by Inflation, but Rate Increase Is on Track</title>
+      <link>https://www.nytimes.com/2017/10/11/business/economy/federal-reserve-minutes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/11/business/economy/federal-reserve-minutes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/11/business/economy/federal-reserve-minutes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/12/business/12DC-FED/12DC-FED-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Janet L. Yellen, the Federal Reserve chairwoman, at a news conference in Washington after the Fed&#x2019;s policy meeting last month.</media:description>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <description>Slow inflation was the main topic at the Federal Reserve&#x2019;s last policy meeting, but most officials leaned toward another interest rate move this year.</description>
+      <dc:creator>BINYAMIN APPELBAUM</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 20:26:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantitative Easing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+    </item>
+    <item>
+      <title>Procter &amp; Gamble and Peltz Spar Over Who Won: DealBook Briefing</title>
+      <link>https://www.nytimes.com/2017/10/11/business/dealbook/procter-gamble-nelson-peltz.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/11/business/dealbook/procter-gamble-nelson-peltz.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/11/business/dealbook/procter-gamble-nelson-peltz.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/12/business/12db-newsletter/gamble-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nelson Peltz controls $3.5 billion of Procter &amp; Gamble shares through his investment firm Trian Fund Management.</media:description>
+      <media:credit>Heidi Gutman/CNBC</media:credit>
+      <description>Even if the company prevails in the costliest board fight ever, that fact that many big investors sided with Mr. Peltz highlights the power of activists.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 11:31:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan Stocks Hit 21-Year High as Investors Shrug Off Concerns</title>
+      <link>https://www.nytimes.com/2017/10/11/business/japan-stocks-nikkei.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/11/business/japan-stocks-nikkei.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/11/business/japan-stocks-nikkei.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/12/world/12japanstocks-1/12japanstocks-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An electronic board showing the Nikkei 225 average outside a brokerage in Tokyo on Wednesday.</media:description>
+      <media:credit>Toru Hanai/Reuters</media:credit>
+      <description>A six-quarter growth streak, low unemployment and surging profits have lifted the markets in the face of challenges, a mirror of global optimism.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 10:29:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nikkei Stock Average</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+    </item>
+    <item>
+      <title>Disney, Hillary Clinton and the Obamas Condemn Weinstein</title>
+      <link>https://www.nytimes.com/2017/10/10/business/media/disney-hillary-clinton-and-the-obamas-condemn-weinstein.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/media/disney-hillary-clinton-and-the-obamas-condemn-weinstein.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/media/disney-hillary-clinton-and-the-obamas-condemn-weinstein.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11disney-1/11disney-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harvey Weinstein, left, and Michael D. Eisner, second from right, the head of the Walt Disney Company at the time, in 2003. Joining them at a book party in Los Angeles were the producer Robert Evans, right, and the book&#x2019;s author, Peter Bart.</media:description>
+      <media:credit>Emilio Flores/Getty Images</media:credit>
+      <description>Disney once owned Miramax, which Harvey Weinstein co-founded. Mr. Weinstein is also a longtime Democratic donor with ties to the Clintons and the Obamas.</description>
+      <dc:creator>BROOKS BARNES</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 16:14:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Miramax Films</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Walt Disney Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisner, Michael D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katzenberg, Jeffrey</category>
+    </item>
+    <item>
+      <title>Google Buying Apple? Sorry, That Was Just a Test</title>
+      <link>https://www.nytimes.com/2017/10/10/business/media/dow-jones-google-apple.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/media/dow-jones-google-apple.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/media/dow-jones-google-apple.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/15/business/11DOWJONES1/11DOWJONES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A bogus headline on the Dow Jones Newswire was the result of a technology test gone awry, the company said.</media:description>
+      <media:credit/>
+      <description>A far-fetched headline and short story that were part of a technology test mistakenly went out on the Dow Jones Newswire on Tuesday morning.</description>
+      <dc:creator>JACLYN PEISER</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 23:40:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Dow Jones &amp; Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>Yale Endowment, Often a Pacesetter, Is a Laggard This Time</title>
+      <link>https://www.nytimes.com/2017/10/10/business/yale-endowment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/yale-endowment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/yale-endowment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11ENDOW/11ENDOW-01a-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Yale University in New Haven, Conn., has modest holdings in domestic equity markets, which at one time protected its endowment from a loss but which now may have reduced its gains in a strong stock market.</media:description>
+      <media:credit>Andrew Sullivan for The New York Times</media:credit>
+      <description>At a time when many large university funds are reporting gains in the midteens, Yale said it generated an 11.3 percent return for the fiscal year.</description>
+      <dc:creator>GERALDINE FABRIKANT</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 14:07:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endowments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yale University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+    </item>
+    <item>
+      <title>Breakingviews: Glaxo Could Make a Nice Home for Pfizer&#x2019;s Consumer Division</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-glaxo-consumer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-glaxo-consumer.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-glaxo-consumer.html?partner=rss&amp;emc=rss"/>
+      <description>It makes sense that Pfizer is considering selling or spinning off its over-the-counter unit. It would also make sense for GlaxoSmithKline to make an offer.</description>
+      <dc:creator>JOHN FOLEY and NEIL UNMACK</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 20:44:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">GlaxoSmithKline PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pfizer Inc</category>
+    </item>
+    <item>
+      <title>Pfizer Considers Spinning Off or Selling Consumer Health Unit</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-consumer-health.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-consumer-health.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/pfizer-consumer-health.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11DB-PFIZER/11DB-PFIZER1-1507644296961-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Centrum multivitamins at a Pfizer plant in Montreal. The pharmaceutical company said Tuesday that it was considering spinning off or selling the unit that includes Centrum.</media:description>
+      <media:credit>Graham Hughes/The Canadian Press, via Associated Press</media:credit>
+      <description>After unsuccessful efforts to acquire other companies in recent years, the drugmaker is weighing whether to shed a division that produces Advil, Centrum supplements and ChapStick.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 16:01:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Read, Ian C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Centerview Partners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Guggenheim Securities LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Morgan Stanley</category>
+    </item>
+    <item>
+      <title>HelloFresh, the Meal Delivery Service, Pursues I.P.O. in Frankfurt</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/hellofresh-ipo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/hellofresh-ipo.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/hellofresh-ipo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11DB-HONEYFRESH1/11DB-HONEYFRESH1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Parts of a HelloFresh meal kit. The company operates in 10 countries and has more than 2,000 employees.</media:description>
+      <media:credit>HelloFresh, via Associated Press</media:credit>
+      <description>The offering would come two years after the German company postponed plans for a public listing in 2015.</description>
+      <dc:creator>CHAD BRAY</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 20:34:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HelloFresh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Blue Apron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Frankfurt Stock Exchange</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Whole Foods Market Inc</category>
+    </item>
+    <item>
+      <title>BAE Systems to Cut Almost 2,000 Jobs in Britain</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/uk-bae-job-cuts.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/uk-bae-job-cuts.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/uk-bae-job-cuts.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11DB-BAEJOBS1/11DB-BAEJOBS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A BAE Systems plant near Preston, England. The company, one of Britain&#x2019;s largest employers, said Tuesday that it was cutting 2,000 jobs as part of an effort to streamline its operations.</media:description>
+      <media:credit>Phil Noble/Reuters</media:credit>
+      <description>The changes at one of the country&#x2019;s largest employers come at a fraught time as the government negotiates to leave the European Union.</description>
+      <dc:creator>CHAD BRAY</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 23:30:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">BAE Systems PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bombardier Inc</category>
+    </item>
+    <item>
+      <title>Honeywell Set to Spin Off 2 Units, but Keep Aerospace Division</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/honeywell-aerospace-dan-loeb.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/honeywell-aerospace-dan-loeb.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/honeywell-aerospace-dan-loeb.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/business/11DB-HONEYWELL1/11DB-HONEYWELL1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Honeywell plant in Cond&#xE9;-sur-Noireau, France. The company said it would spin off its homes and global distribution unit and its transportation systems division into two publicly traded companies by the end of next year.</media:description>
+      <media:credit>Charly Triballeau/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The overhaul was a rejection of calls by the activist investor Daniel S. Loeb to separate the plane-making business from other operations.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Wed, 11 Oct 2017 00:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Honeywell International Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shareholder Rights and Activism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loeb, Daniel S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adamczyk, Darius</category>
+    </item>
+    <item>
+      <title>Masayoshi Son&#x2019;s Grand Plan for SoftBank&#x2019;s $100 Billion Vision Fund</title>
+      <link>https://www.nytimes.com/2017/10/10/technology/masayoshi-son-softbank-vision-fund.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/technology/masayoshi-son-softbank-vision-fund.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/technology/masayoshi-son-softbank-vision-fund.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/10/business/11SOFTBANK-1/11SOFTBANK-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eric Gundersen, chief executive of Mapbox, met in July with Masayoshi Son, who led a $164 million investment in Mapbox that was announced on Tuesday.</media:description>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <description>Mr. Son has told tech entrepreneurs he is on a mission to own pieces of all the companies that may underpin the shifts brought on by artificial intelligence.</description>
+      <dc:creator>KATIE BENNER</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 23:10:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Son, Masayoshi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SOFTBANK Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mapbox Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gundersen, Eric (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+    </item>
+    <item>
+      <title>The E.P.A. Move&#x2019;s Winners and Losers: DealBook Briefing</title>
+      <link>https://www.nytimes.com/2017/10/10/business/dealbook/epa-winners-losers-coal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/10/business/dealbook/epa-winners-losers-coal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/10/business/dealbook/epa-winners-losers-coal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/11/world/11db-newsletter-1/11db-newsletter-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Scott Pruitt, the E.P.A. chief, with President Trump at the White House in June.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>As the Trump administration seeks to repeal Obama-era clean power rules, expect coal companies to come out ahead &#x2014; but not by as much as people might think.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Tue, 10 Oct 2017 13:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breakingviews: Weinstein Company Joins Ranks of Firms With Bosses Who Misbehave</title>
+      <link>https://www.nytimes.com/2017/10/09/business/dealbook/weinstein-company.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/09/business/dealbook/weinstein-company.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/09/business/dealbook/weinstein-company.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/10/business/10DB-WEINSTEIN/10DB-WEINSTEIN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harvey Weinstein was fired Sunday by the film studio he co-founded.</media:description>
+      <media:credit>Yann Coatsaliou/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>With Harvey Weinstein, one of its founders, gone, the film studio faces a new set of risks &#x2014; both in what he takes away and what he leaves behind.</description>
+      <dc:creator>JOHN FOLEY</dc:creator>
+      <pubDate>Mon, 09 Oct 2017 20:52:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Weinstein Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+    </item>
+    <item>
+      <title>G.M. Acquires Strobe, Start-Up Focused on Driverless Technology</title>
+      <link>https://www.nytimes.com/2017/10/09/business/general-motors-driverless.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/09/business/general-motors-driverless.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/09/business/general-motors-driverless.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/10/business/10motors-barra/10motors-barra-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mary T. Barra, chairwoman and chief executive of General Motors, last month in Shanghai. G.M. has made electric and autonomous cars an increasing focus of its strategy.</media:description>
+      <media:credit>Aly Song/Reuters..</media:credit>
+      <description>With the deal, the nation&#x2019;s largest automaker is snapping up a company with expertise in developing laser-based sensors that create high-definition images for autonomous vehicles.</description>
+      <dc:creator>BILL VLASIC</dc:creator>
+      <pubDate>Mon, 09 Oct 2017 16:28:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Strobe Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+    </item>
+    <item>
+      <title>Corker Takes On Trump, Hedge Funds Lose on Puerto Rico: DealBook Briefing</title>
+      <link>https://www.nytimes.com/2017/10/09/business/dealbook/bob-corker-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/09/business/dealbook/bob-corker-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/09/business/dealbook/bob-corker-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/10/world/10db-newsletter-1/11db-newsletter-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Bob Corker, Republican of Tennessee, last month in Washington.</media:description>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Investors may be alarmed by Senator Bob Corker&#x2019;s rebuke of President Trump, largely because of what it might mean for issues like a tax code overhaul.</description>
+      <dc:creator>AMIE TSANG and MICHAEL J. de la MERCED</dc:creator>
+      <pubDate>Mon, 09 Oct 2017 11:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Book Entry: Review: &#x2018;Forged in Crisis&#x2019; Strains to Define Leadership</title>
+      <link>https://www.nytimes.com/2017/10/05/business/dealbook/review-forged-in-crisis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/05/business/dealbook/review-forged-in-crisis.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/05/business/dealbook/review-forged-in-crisis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/05/business/00DB-BOOKS/00DB-BOOKS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The explorer Ernest Shackleton is one of several examples of leadership explored in the book &#x201C;Forged in Crisis,&#x201D; by Nancy Koehn, a Harvard Business School historian.</media:description>
+      <media:credit>South Polar Research Institute</media:credit>
+      <description>In her book, Nancy Koehn attempts to identify the common qualities of figures as different as Abraham Lincoln, Ernest Shackleton and Rachel Carson.</description>
+      <dc:creator>JONATHAN A. KNEE</dc:creator>
+      <pubDate>Fri, 06 Oct 2017 14:32:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carson, Rachel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shackleton, Ernest</category>
+    </item>
+    <item>
+      <title>White Collar Watch: Taking a New Strategy to Court in N.C.A.A. Case</title>
+      <link>https://www.nytimes.com/2017/10/04/business/ncaa-coaches-payments.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/04/business/ncaa-coaches-payments.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/04/business/ncaa-coaches-payments.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/27/business/00DB-WHITECOLLAR/27collegebasketball-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chuck Person, an assistant men&#x2019;s basketball coach at Auburn, is one of 10 people facing federal charges over payments involving student athletes.</media:description>
+      <media:credit>Icon Sportswire, via Associated Press</media:credit>
+      <description>Federal prosecutors went after payments to college athletes but lost on appeal in 1993. Now a case against 10 men, including four coaches, offers a new approach.</description>
+      <dc:creator>PETER J. HENNING</dc:creator>
+      <pubDate>Wed, 04 Oct 2017 10:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Basketball (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+    </item>
+    <item>
+      <title>DealBook: Business Goes to Washington</title>
+      <link>http://www.nytimes.com/spotlight/dealbook-special-section?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/spotlight/dealbook-special-section</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/spotlight/dealbook-special-section?partner=rss&amp;emc=rss"/>
+      <description>&#x201C;We are absolutely destroying these horrible regulations that have been placed on your heads.&#x201D; &#x2014; President Trump.</description>
+      <dc:creator/>
+      <pubDate>Wed, 04 Nov 2015 18:01:28 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

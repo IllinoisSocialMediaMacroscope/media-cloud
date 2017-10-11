@@ -1,0 +1,101 @@
+label,description,name,show_on_media,show_on_stories,tag_sets_id
+,,content_type,0,,2
+,,usnewspapercirculation,0,,3
+,,workflow,0,,4
+Collections,"Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics.",collection,0,,5
+,,manual_term,0,,6
+,,term_study,0,,7
+,,Calais (term_study),0,,8
+,,Yahoo (term_study),0,,9
+,,NYTTopics (term_study),0,,10
+,,NYTTopics,0,,11
+,,tagged,0,,12
+,,Calais,0,,13
+,,source,0,,14
+,,pklocation,0,,15
+,,pkgeog-type,0,,16
+,,word_cloud,0,,17
+,,morning_analytics_russia_20100915_cluster,0,,18
+,,morning_analytics_russia_full_20100911_cluster,0,,19
+,,topic,0,,83
+,,spidered,0,,183
+,,sopa,0,,188
+,,controversy_trayvon,0,,372
+,,collection:_newyork_jessie_spidering_10242012,0,,383
+,,date_guess_method,0,,508
+,,controversy_prop 40,0,,509
+,,controversy_prop 32,0,,510
+,,controversy_prop 34,0,,511
+,,controversy_prop 31,0,,512
+,,controversy_prop 33,0,,513
+,,controversy_prop 35,0,,514
+,,controversy_prop 36,0,,515
+,,controversy_prop 37,0,,516
+,,controversy_prop 39,0,,517
+,,controversy_prop 30 + 38,0,,518
+,,controversy_sopa,0,,523
+,,emm_type,0,,554
+,,emm_subject,0,,555
+Europe Media Monitor Countries,,emm_country,0,,556
+,,emm_region,0,,557
+,,emm_category,0,,558
+,,emm_lang,0,,559
+,,controversy_russia protests,0,,562
+Global Voices Countries,,gv_country,0,,597
+,,ca_ra_media_types,0,,690
+,,date_invalid,0,,714
+,,controversy_nsa / snowden,0,,766
+,,portuguese_media_type,0,,783
+,,portuguese_topic,0,,784
+,,portuguese_state,0,,785
+,,controversy_obama 2012-11,0,,795
+,,controversy_obama-romney 2012-10,0,,796
+,,controversy_tamarod,0,,842
+,,partisan_coding_20140218,0,,913
+,,dlarochelle@cyber.law.harvard.edu,0,,953
+,,controversy_rolezinhos,0,,958
+,,egypt_media_type,0,,986
+,,egypt_valence,0,,987
+,,controversy_tamarod - new,0,,1006
+,,foo,0,,1007
+,,hroberts@cyber.law.harvard.edu,0,,1010
+mc-geocoder@media.mit.edu,CLIFF geographical names,mc-geocoder@media.mit.edu,0,,1011
+,,controversy_network neutrality,,,1043
+,,controversy_isla vista,,,1049
+,,kenya_media_source,,,1056
+,,controversy_gaza 2014-07,,,1093
+Media Type,High level topology for media sources for use across a variety of different topics,media_type,,,1099
+,,controversy_Chinese Bitcoin 2,,,1109
+,,controversy_isla vista - simple,,,1111
+,,controversy_Chinese Bitcoin 3,,,1112
+,,controversy_Chinese Bitcoin,,,1114
+,,controversy_sopa 20130507,,,1115
+,,controversy_hobby lobby,,,1116
+Media Types for gaza 2014-07 Controversy,These tags are media types specific to the gaza 2014-07 controversy,controversy_720_media_types,,,1117
+,,controversy_gaza,,,1143
+teen pregnancy controversy,Tag set for stories within the teen pregnancy controversy.,controversy_teen pregnancy - broken,,,1145
+teen pregnancy controversy,Tag set for stories within the teen pregnancy controversy.,controversy_teen pregnancy,,,1148
+ebola controversy,Tag set for stories within the ebola controversy.,controversy_ebola,,,1158
+ferguson controversy,Tag set for stories within the ferguson controversy.,controversy_ferguson,,,1162
+ferguson / mike brown controversy,Tag set for stories within the ferguson / mike brown controversy.,controversy_ferguson / mike brown,,,1174
+Media Types for ebola Controversy,These tags are media types specific to the ebola controversy,controversy_791_media_types,,,1180
+tobacco controversy,Tag set for stories within the tobacco controversy.,controversy_tobacco,,,1228
+abortion controversy,Tag set for stories within the abortion controversy.,controversy_abortion,,,1235
+contraception controversy,Tag set for stories within the contraception controversy.,controversy_contraception,,,1244
+contraception / bc controversy,Tag set for stories within the contraception / bc controversy.,controversy_contraception / bc,,,1252
+sex education controversy,Tag set for stories within the sex education controversy.,controversy_sex education,,,1276
+reproductive rights controversy,Tag set for stories within the reproductive rights controversy.,controversy_reproductive rights,,,1278
+mlk controversy,Tag set for stories within the mlk controversy.,controversy_mlk,,,1290
+ferguson / garner controversy,Tag set for stories within the ferguson / garner controversy.,controversy_ferguson / garner,,,1293
+,,fake_sources,,,1341
+mlk simple controversy,Tag set for stories within the mlk simple controversy.,controversy_mlk simple,,,1346
+,,extractor_version,,,1354
+mtv the talk controversy,Tag set for stories within the mtv the talk controversy.,controversy_mtv the talk,,,1364
+ap sentences controversy,Tag set for stories within the ap sentences controversy.,controversy_ap sentences,,,1371
+Media Types for abortion Controversy,These tags are media types specific to the abortion controversy,controversy_867_media_types,,,1376
+common core controversy,Tag set for stories within the common core controversy.,controversy_common core,,,1394
+egypt spider 2015-03-01 - 2015-03-03 controversy,Tag set for stories within the egypt spider 2015-03-01 - 2015-03-03 controversy.,controversy_egypt spider 2015-03-01 - 2015-03-03,,,1399
+climate change controversy,Tag set for stories within the climate change controversy.,controversy_climate change,,,1411
+egypt spider controversy,Tag set for stories within the egypt spider controversy.,controversy_egypt spider,,,1414
+vaccines controversy,Tag set for stories within the vaccines controversy.,controversy_vaccines,,,1421
+,,mexico_state,,,1430

@@ -3,6 +3,17 @@ import os
 import csv
 import json
 
+'''
+A feed is either a syndicated feed, such as an RSS feed, or a single web page.
+Each feed is downloaded between once an hour and once a day depending on traffic.
+Each time a syndicated feed is downloaded, each new URL found in the feed is added
+to the feed's media source as a story. Each time a web page feed is downloaded,
+that web page itself is added as a story for the feed's media source.
+Each feed belongs to a single media source. Each story can belong to one
+or more feeds from the same media source.
+'''
+
+
 class feed:
     def __init__(self, API_key):
         self.key = API_key
@@ -21,11 +32,13 @@ class feed:
                 
             with open( name +'_feed/basic.txt', 'w') as outfile:
                 json.dump(response[0], outfile)
-
+            print('save results to ' + name +'_feed/basic.txt')
+            
             # download the rss
             r2 = requests.get(response[0]['url'])
             with open( name +'_feed/rss.xml', 'w') as f:
                 f.write(r2.content.decode("utf-8") )
+            print('save results to ' + name +'_feed/rss.xml')
 
     def get_feed_list(self, total_num, media_id):
         last_id = 0
@@ -53,13 +66,16 @@ class feed:
                 writer = csv.writer(outfile)
                 writer.writerow(['name','url','feeds_id','feed_type','media_id'])
                 for item in feeds:
+                   # print(item)
                     writer.writerow([item['name'],
                                      item['url'],
                                      item['feeds_id'],
                                      item['feed_type'],
-                                     item['media_id']])        
-    
+                                     item['media_id']])
 
+            print('save results to feed_list.csv')
+                    
+                                              
 
 if __name__ =='__main__':
     

@@ -34,6 +34,8 @@ class media:
                                  response[0]['name'],
                                  response[0]['public_notes'],
                                  response[0]['url']])
+            print('save results to ' + name + '_info/basics.csv')
+
             with open(name + '_info/media_source_tags.csv','w',newline="",encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(headers2)
@@ -46,6 +48,7 @@ class media:
                                     t['tag_set'],
                                     t['tag_sets_id'],
                                     t['tags_id']])
+            print('save results to ' + name + '_info/media_source_tags.csv')
 
 
     def get_media_health(self,media_id):
@@ -98,6 +101,9 @@ class media:
                                  response[0]['num_stories_w'],
                                  response[0]['num_stories_y'],
                                  response[0]['start_date']])
+
+            print('save results to ' + name + '_health/basics.csv')
+
             with open(name + '_health/coverage_gaps_list.csv','w',newline="",encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(headers2)
@@ -108,7 +114,7 @@ class media:
                                      t['num_sentences'],
                                      t['num_stories'],
                                      t['stat_week']])
-        
+            print('save results to ' + name + '_health/coverage_gaps_list.csv')
         
 if __name__ =='__main__':
     

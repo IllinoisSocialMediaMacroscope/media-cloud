@@ -1,0 +1,26 @@
+{
+  "ap_syndicated": null,
+  "bitly_click_count": null,
+  "collect_date": "2010-11-24 15:33:39",
+  "feeds": null,
+  "guid": "http://globalvoicesonline.org/?p=169660#comment-1733161",
+  "language": "en",
+  "media_id": 1144,
+  "media_name": null,
+  "media_url": null,
+  "processed_stories_id": null,
+  "publish_date": "2010-11-24 04:05:00",
+  "stories_id": 27456565,
+  "story_tags": [
+    {
+      "stories_id": 27456565,
+      "tag": "readability-lxml-0.3.0.5",
+      "tag_set": "extractor_version",
+      "tag_sets_id": 1354,
+      "tags_id": 8929188
+    }
+  ],
+  "title": "Comment on Myanmar's new flag and new name by kc",
+  "url": "http://globalvoicesonline.org/2010/10/26/myanmars-new-flag-and-new-name/comment-page-1/#comment-1733161",
+  "word_count": null
+}

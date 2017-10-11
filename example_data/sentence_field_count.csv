@@ -1,0 +1,473 @@
+count,tag_sets_id,label,tag,tags_id
+91,1354,,readability-lxml-0.6.2,9325058
+59,1011,United States,geonames_6252001,8878461
+43,183,,spidered,8875452
+33,1937,cliff_clavin_v2.3.0,cliff_clavin_v2.3.0,9353691
+31,1964,nyt_labeller_v1.0.0,nyt_labeller_v1.0.0,9360669
+30,508,,guess_by_url_and_date_text,8875823
+22,1011,New York,geonames_5128638,8878463
+22,1963,politics and government,politics and government,9360836
+18,1839,,all,9274416
+15,1963,united states politics and government,united states politics and government,9360846
+12,1937,cliff_clavin_v2.4.1,cliff_clavin_v2.4.1,9696677
+8,1963,elections,elections,9360851
+8,508,,source_link,8875825
+7,1011,Ohio,geonames_5165418,8878703
+7,1354,,readability-lxml-0.3.0.5,8929188
+7,1011,Utah,geonames_5549030,8878632
+6,2389,Donald Trump,Donald Trump,9362284
+6,1732,,all,9188661
+5,1011,Florida,geonames_4155751,8878477
+5,1011,California,geonames_5332921,8878533
+5,2388,Trump,Trump,9362787
+5,1011,Iowa,geonames_4862182,8878998
+5,1963,terrorism,terrorism,9360900
+5,1963,"armament, defense and military forces","armament, defense and military forces",9360868
+4,508,,guess_by_og_article_published_time,8877815
+4,1963,finances,finances,9360840
+4,1011,North Carolina,geonames_4482348,8878553
+4,1963,international relations,international relations,9360934
+4,1789,,all,9238242
+4,1837,,all,9268175
+4,2389,Obama,Obama,9362721
+4,1011,Pennsylvania,geonames_6254927,8878566
+4,1011,Texas,geonames_4736286,8878538
+4,1963,united states international relations,united states international relations,9360933
+4,2389,Trump,Trump,9362872
+3,1963,law and legislation,law and legislation,9360837
+3,1963,presidents and presidency (us),presidents and presidency (us),9360853
+3,2388,Facebook,Facebook,9362725
+3,2388,New York Times,New York Times,9362756
+3,1963,united states armament and defense,united states armament and defense,9360930
+3,1963,medicine and health,medicine and health,9360852
+3,1963,blacks,blacks,9360863
+3,1011,South Carolina,geonames_4597040,8878556
+3,1892,,all,9329040
+3,2389,Mike Pence,Mike Pence,9362945
+3,1887,,all,9316517
+3,2388,state,state,9363067
+3,2389,Donald J. Trump,Donald J. Trump,9362749
+3,2389,Hillary Clinton,Hillary Clinton,9362747
+3,2389,Bernie Sanders,Bernie Sanders,9362750
+3,1963,discrimination,discrimination,9360938
+2,1963,ethics,ethics,9360915
+2,1011,New York City,geonames_5128581,8878486
+2,1866,,all,9312328
+2,2388,Times,Times,9365707
+2,2388,White House,White House,9362736
+2,1011,Nevada,geonames_5509151,8879111
+2,1011,Arizona,geonames_5551752,8878730
+2,1963,news and news media,news and news media,9360885
+2,2388,C.I.A.,C.I.A.,9363436
+2,2388,Congress,Congress,9362962
+2,2389,Jeff Sessions,Jeff Sessions,9363289
+2,1011,England,geonames_6269131,8878467
+2,2389,Tiffany,Tiffany,9375504
+2,1011,Indiana,geonames_4921868,8878577
+2,2388,National Security Agency,National Security Agency,9364270
+2,1824,,all,9251608
+2,2389,Edward J. Snowden,Edward J. Snowden,9467142
+2,1963,taxation,taxation,9360882
+2,1963,homosexuality,homosexuality,9360858
+2,2388,Equitable,Equitable,9478444
+2,2389,Ivana Trump,Ivana Trump,9379874
+2,1963,housing,housing,9361048
+2,2389,Doris Burke,Doris Burke,9491461
+2,2388,Senate Armed Services Committee,Senate Armed Services Committee,9365061
+2,1963,media,media,9360911
+2,1011,Russian Federation,geonames_2017370,8878645
+2,2389,Rodrigo Duterte,Rodrigo Duterte,9362296
+2,2388,Trump International,Trump International,9366846
+2,2388,Senate,Senate,9362741
+2,1011,Colorado,geonames_5417618,8878696
+2,2388,United Nations,United Nations,9362785
+2,1011,Maryland,geonames_4361885,8878524
+2,1835,,all,9267909
+2,1011,New Hampshire,geonames_5090174,8879620
+2,2388,Trump Organization,Trump Organization,9363373
+1,1011,Las Vegas,geonames_5506956,8878898
+1,2388,FBI,FBI,9362961
+1,2389,Obamacare,Obamacare,9364793
+1,1011,Benghazi,geonames_88319,8881598
+1,1011,Nebraska,geonames_5073708,8879105
+1,2389,Rania,Rania,9409495
+1,2389,John McCain,John McCain,9362949
+1,1011,Republic of Indonesia,geonames_1643084,8879351
+1,2389,Susanne Craig,Susanne Craig,9429365
+1,2389,Joe Arpaio,Joe Arpaio,9368370
+1,2388,Wharton School,Wharton School,9377534
+1,2389,Frank Williams,Frank Williams,10004923
+1,2388,Yun Capital,Yun Capital,10066322
+1,2389,Maria Alcivar,Maria Alcivar,9699906
+1,2388,Medicare,Medicare,9364657
+1,2389,Sinatra,Sinatra,9431867
+1,2389,Donald John Trump,Donald John Trump,9458208
+1,2389,Muhammad Ali,Muhammad Ali,9372222
+1,1011,Louisiana,geonames_4331987,8878576
+1,2389,JOHN E. STAFFORD Rye,JOHN E. STAFFORD Rye,13111533
+1,2389,George W. Bush,George W. Bush,9363130
+1,1011,Manhattan,geonames_5125771,8878499
+1,2388,navy,navy,9363756
+1,2388,U.S.A.,U.S.A.,9434336
+1,2389,Harry Helmsley,Harry Helmsley,9886804
+1,1011,Brooklyn,geonames_5110302,8878462
+1,2389,Leigh Winner,Leigh Winner,9670552
+1,1011,Atlantic City,geonames_4500546,8881017
+1,2388,Grand Hyatt Hotel Trump Corporation,Grand Hyatt Hotel Trump Corporation,9886782
+1,2388,Loewe of Madrid,Loewe of Madrid,9886741
+1,2389,Jared Kushner,Jared Kushner,9362984
+1,1963,demonstrations and riots,demonstrations and riots,9360974
+1,1963,apparel,apparel,9360953
+1,1011,Repubblica Italiana,geonames_3175395,8878643
+1,2389,Steve Eder,Steve Eder,9394813
+1,2389,Ye Olde,Ye Olde,10739516
+1,1963,insurance,insurance,9360924
+1,2389,Kathy Sloane,Kathy Sloane,10525115
+1,2389,Wallgren,Wallgren,11810422
+1,2389,Mel M. Immergut,Mel M. Immergut,10066331
+1,2388,Random House,Random House,9382775
+1,2389,Jon Soltz,Jon Soltz,9757454
+1,2389,Mitch McConnell,Mitch McConnell,9362936
+1,2388,northwest of Augusta,northwest of Augusta,18481303
+1,2388,"Standard Abstract Corporation, publishers of daily realty","Standard Abstract Corporation, publishers of daily realty",9886745
+1,2388,Brooklyn Democratic organization,Brooklyn Democratic organization,9663563
+1,1963,education and schools,education and schools,9360833
+1,2388,United States Football League,United States Football League,9474690
+1,1011,London,geonames_2643743,8878473
+1,1011,Khabarovskiy Kray,geonames_2022888,8887918
+1,2388,national intelligence,national intelligence,9364112
+1,2389,Louise M. Sunshine,Louise M. Sunshine,9553383
+1,2389,Barron,Barron,9377356
+1,2388,Wembly Realty Inc.,Wembly Realty Inc.,9886737
+1,2389,Tom Cotton,Tom Cotton,9367444
+1,2389,Rudolph Giuliani,Rudolph Giuliani,9368010
+1,2389,Alan Garten,Alan Garten,9379335
+1,2389,Kathy Shelton,Kathy Shelton,9435637
+1,2389,jobwise,jobwise,9866661
+1,2389,Sarah Margon,Sarah Margon,9394302
+1,2389,Susan,Susan,9366147
+1,2389,Kashiya Nwanguma,Kashiya Nwanguma,9385727
+1,2389,Robert Trump,Robert Trump,9469201
+1,2389,Abraham Lincoln,Abraham Lincoln,9364702
+1,2389,Rudin,Rudin,9561401
+1,2389,Harry Levinson,Harry Levinson,9886825
+1,2388,U.N.,U.N.,9363619
+1,2388,Washington University,Washington University,9421247
+1,2389,Ilyse Fink,Ilyse Fink,21562125
+1,2389,Donald J. Trumpdrawing,Donald J. Trumpdrawing,9886806
+1,2389,Jason Miller,Jason Miller,9362790
+1,1011,San Bernardino,geonames_5391710,8883897
+1,2389,Sanei,Sanei,9458565
+1,2388,defense,defense,9362925
+1,1011,Cambridge,geonames_4931972,8891635
+1,2388,Fox News,Fox News,9364167
+1,2388,Secret Service,Secret Service,9363454
+1,2389,Fred,Fred,9407474
+1,2389,Rex Tillerson,Rex Tillerson,9362874
+1,2389,John McGraw,John McGraw,9563082
+1,2389,AINARA TIEFENTHÄLER,AINARA TIEFENTHÄLER,9380838
+1,2389,Robert Abrams,Robert Abrams,9886816
+1,2389,Trey Gowdy,Trey Gowdy,9379447
+1,2389,Saxe,Saxe,9553358
+1,2389,Louise Sunshine,Louise Sunshine,9590984
+1,2389,Yun,Yun,9479931
+1,2388,Medicaid,Medicaid,9458020
+1,2389,Mattis,Mattis,9384527
+1,1011,Dubayy,geonames_292224,8878922
+1,2389,Jeremy Bowers,Jeremy Bowers,9475119
+1,2389,Roy Cohn,Roy Cohn,9380597
+1,1011,North Charleston,geonames_4589387,8886237
+1,1011,Georgia,geonames_4197000,8878530
+1,2389,Jose E. B. Antonio,Jose E. B. Antonio,9486841
+1,2389,Robbie,Robbie,9392904
+1,2389,Michael S. Rogers,Michael S. Rogers,9385677
+1,2388,Hyatt Corporation,Hyatt Corporation,9611214
+1,2389,Titan Atlas,Titan Atlas,9744570
+1,2389,Herschel Walker,Herschel Walker,9553366
+1,2389,COOPER,COOPER,9549976
+1,2389,Asprey,Asprey,9553363
+1,2389,Graham,Graham,9375034
+1,2389,Abraham D. Beame,Abraham D. Beame,9480615
+1,2388,Park Imperial,Park Imperial,21562109
+1,2389,Doug Flutie,Doug Flutie,9614241
+1,2388,select committee,select committee,9398066
+1,2389,Jeff Flake,Jeff Flake,9362937
+1,2389,Soros,Soros,9415197
+1,2389,Dera Sacha Sauda,Dera Sacha Sauda,9388998
+1,2388,Community Environmental Legal Defense Fund,Community Environmental Legal Defense Fund,9806469
+1,2389,Muslim,Muslim,9363133
+1,2389,Gary Davis,Gary Davis,9602255
+1,2388,Genesco,Genesco,9393789
+1,1011,Augusta,geonames_4180531,8879143
+1,2389,Putin,Putin,9363338
+1,2388,Penn Central,Penn Central,9474678
+1,2389,Ivanka Trump,Ivanka Trump,9364183
+1,1011,White House,geonames_4667282,8879476
+1,2389,Floyd Mayweather Jr.,Floyd Mayweather Jr.,9516698
+1,2389,Fisher,Fisher,9364867
+1,2388,ISIS,ISIS,9362990
+1,2389,Marilyn Evins,Marilyn Evins,9886820
+1,2389,Richard Fausset,Richard Fausset,9403270
+1,2389,Harry Winston,Harry Winston,9553364
+1,2389,Mark R. Warner,Mark R. Warner,9364938
+1,2388,Republican Party,Republican Party,9374874
+1,2388,Koch Industries,Koch Industries,9378474
+1,2389,Elaine,Elaine,9363487
+1,2388,Senate Intelligence Committee,Senate Intelligence Committee,9364935
+1,2389,Kitty Bennett,Kitty Bennett,9468144
+1,2389,Thomas Furse,Thomas Furse,11353697
+1,2389,Preston Robert Tisch,Preston Robert Tisch,9590971
+1,2389,Richard C. Paddock,Richard C. Paddock,9486868
+1,2388,TRUMP FAMILY Trump Equities Inc.,TRUMP FAMILY Trump Equities Inc.,9886792
+1,2389,Oliver A. Rosengart,Oliver A. Rosengart,21562118
+1,2389,Francis L. Bryant,Francis L. Bryant,9886802
+1,1011,Dubai,geonames_10212220,9038911
+1,2388,voice of Frank Sinatra,voice of Frank Sinatra,9886748
+1,2388,NEW YORK TIMES,NEW YORK TIMES,9450659
+1,2389,Eyal,Eyal,9904547
+1,2389,Rudolph W. Giuliani,Rudolph W. Giuliani,9365246
+1,2389,Abigail Klem,Abigail Klem,9366620
+1,2388,Koch brothers,Koch brothers,9378471
+1,1888,,all,9324046
+1,2389,Paul Ryan,Paul Ryan,9364205
+1,2389,Jim Jordan,Jim Jordan,9378487
+1,2388,General Services Administration,General Services Administration,9398492
+1,1011,Staten Island,geonames_5139568,8879508
+1,1011,Beijing,geonames_1816670,8878606
+1,2389,Bill Clinton,Bill Clinton,9363221
+1,2388,C.I.A,C.I.A,9467118
+1,2388,Loew's Corporation,Loew's Corporation,9886730
+1,2389,Hugh L. Carey,Hugh L. Carey,9886814
+1,2389,Maryanne,Maryanne,9453583
+1,2389,Ron Paul Liberty,Ron Paul Liberty,10645257
+1,2389,Jaffa Levy,Jaffa Levy,21562121
+1,2389,George Washington,George Washington,9367922
+1,2389,Eisner,Eisner,9389630
+1,2389,Meg Whitman,Meg Whitman,9452281
+1,2389,Mike Pompeo,Mike Pompeo,9362758
+1,2389,Devin Nunes,Devin Nunes,9367526
+1,1011,Michigan,geonames_5001836,8878821
+1,2389,George,George,9367023
+1,2389,William Zeckendorf,William Zeckendorf,9482011
+1,2389,Jacques Pépin,Jacques Pépin,9673176
+1,1011,Vermont,geonames_5242283,8880886
+1,2389,Eric Trump,Eric Trump,9362795
+1,2388,Urban Development Corporation,Urban Development Corporation,9663572
+1,2389,Mitt Romney,Mitt Romney,9365875
+1,2389,Anderson,Anderson,9364966
+1,1011,Jupiter,geonames_4160610,8882059
+1,2389,Assange,Assange,9459744
+1,2388,Justice Department,Justice Department,9363280
+1,2389,Vladimir V. Putin,Vladimir V. Putin,9363285
+1,2389,Steven Spielberg,Steven Spielberg,9365871
+1,2389,Deborah Wasserman Schultz,Deborah Wasserman Schultz,9655560
+1,1011,Trentino-Alto Adige,geonames_3165244,8879977
+1,2389,Fred Jr.,Fred Jr.,9474713
+1,2388,Augusta National Golf Club,Augusta National Golf Club,9602254
+1,2388,Al Drago/The New York Times,Al Drago/The New York Times,9924963
+1,2388,Iowa State,Iowa State,9451188
+1,2389,Warren Buffett,Warren Buffett,9375621
+1,1011,North West London,geonames_6692462,8883038
+1,2389,Mussolini,Mussolini,9380589
+1,2389,Charles G.,Charles G.,9539224
+1,2388,DONALD TRUMP Trump Enterprises Inc.,DONALD TRUMP Trump Enterprises Inc.,9886780
+1,2389,Charlie Savage,Charlie Savage,9384863
+1,1011,Manila,geonames_4120426,8953613
+1,2389,Jeremy B. Merrill,Jeremy B. Merrill,9553144
+1,2388,Trump Management Inc.,Trump Management Inc.,9567028
+1,1963,women,women,9360892
+1,1963,espionage,espionage,9361302
+1,2388,Cartier,Cartier,9397270
+1,2389,Jack Reed,Jack Reed,9386463
+1,2389,Jefferson Beauregard,Jefferson Beauregard,9375787
+1,2389,Gorbah Hamed,Gorbah Hamed,9866664
+1,2389,DONALD TRUMP,DONALD TRUMP,9441562
+1,2389,Robert S. Trump,Robert S. Trump,9613761
+1,1011,Maine,geonames_4971068,8878569
+1,2388,press corps,press corps,9367362
+1,2389,Maggie Haberman,Maggie Haberman,9363297
+1,1011,Concord,geonames_4461574,9026078
+1,2388,D.S.C.C.,D.S.C.C.,22580687
+1,2389,Dean Heller,Dean Heller,9372680
+1,2388,white house,white house,9397620
+1,2388,Democratic Congressional Campaign Committee,Democratic Congressional Campaign Committee,9363959
+1,2389,Elizabeth Trump,Elizabeth Trump,9474712
+1,2389,Mohammad Ponir,Mohammad Ponir,9618069
+1,2389,Meredith McGehee,Meredith McGehee,9465390
+1,2388,City Planning Commission,City Planning Commission,9537001
+1,2389,Galanos,Galanos,9402205
+1,1963,restaurants,restaurants,9360966
+1,1011,Washington,geonames_5815135,8878481
+1,2388,Nissan,Nissan,9374939
+1,2388,House Intelligence Committee,House Intelligence Committee,9366107
+1,2389,Bill Nye,Bill Nye,9415201
+1,2389,Regine,Regine,9886797
+1,2388,New York State Urban Development Corporation,New York State Urban Development Corporation,9886755
+1,2389,Jeremy Blackburn,Jeremy Blackburn,9599761
+1,2388,advisory committee,advisory committee,9372551
+1,2388,U.S. Navy,U.S. Navy,9364680
+1,1011,Moscow,geonames_524901,8878648
+1,1011,West Bank,geonames_285153,8879003
+1,2389,Chris Dixon,Chris Dixon,9621133
+1,2389,Timothy A. Clary/Agence,Timothy A. Clary/Agence,10066329
+1,2389,LARRY LOBERT,LARRY LOBERT,13111535
+1,2389,David Evins,David Evins,9553384
+1,2389,Harrah,Harrah,9474720
+1,2388,New York Convention & Visitors Bureau,New York Convention & Visitors Bureau,9886762
+1,2389,David H. Koch,David H. Koch,9378485
+1,2389,Ken Karpowicz,Ken Karpowicz,9866663
+1,2388,G.R.U.,G.R.U.,9513102
+1,1011,Rio de Janeiro,geonames_3451190,8879654
+1,2389,Will,Will,9687185
+1,1011,United Kingdom of Great Britain and Northern Ireland,geonames_2635167,8878466
+1,2389,Jonathan Gruber,Jonathan Gruber,9449591
+1,2389,Sidney Blumenthal,Sidney Blumenthal,9376236
+1,2388,KGK,KGK,10066325
+1,1963,culture,culture,9361065
+1,1011,Louisville,geonames_4299276,8880683
+1,2388,imminent Land Corporation of California - Owner of major California land parcels Gold Company,imminent Land Corporation of California - Owner of major California land parcels Gold Company,9886788
+1,2389,Donald Jr.,Donald Jr.,9385492
+1,2388,Bowery Savings Bank,Bowery Savings Bank,9886769
+1,2389,Michelle Obama,Michelle Obama,9363126
+1,2389,Bhagavad Gita,Bhagavad Gita,9459631
+1,508,,guess_by_date_text,8875821
+1,2388,Barbizon Plaza hotel,Barbizon Plaza hotel,9886787
+1,2388,Hewlett Packard Enterprise,Hewlett Packard Enterprise,9406775
+1,2388,Equitable Life Assurance Society of Trump Tower Seashore Corporation,Equitable Life Assurance Society of Trump Tower Seashore Corporation,9886790
+1,2389,Kian Loyd delos Santos,Kian Loyd delos Santos,9379431
+1,2389,Annalisa Adams,Annalisa Adams,9623633
+1,2389,Patrice,Patrice,9504419
+1,2389,Barack Obama,Barack Obama,9362763
+1,2389,Michael T. Flynn,Michael T. Flynn,9363789
+1,1011,Islamic Republic of Iran,geonames_130758,8878503
+1,2388,Deutsche Bank,Deutsche Bank,9376405
+1,2389,Claire McCaskill,Claire McCaskill,9363330
+1,2389,Michael Wolff,Michael Wolff,9446275
+1,2389,Kate Thornton,Kate Thornton,10066332
+1,2389,Robert Graham,Robert Graham,9421174
+1,2388,Human Rights Watch,Human Rights Watch,9362883
+1,2389,Maryanne Trump Barry,Maryanne Trump Barry,9446362
+1,2389,Elizabeth,Elizabeth,9370578
+1,2388,Trump real estate projects Wembly Realty Inc.,Trump real estate projects Wembly Realty Inc.,9886785
+1,1963,food,food,9361010
+1,2388,Cumberland County Sheriff's Office,Cumberland County Sheriff's Office,9543563
+1,2389,THOMAS ALAN LINZEY,THOMAS ALAN LINZEY,13111522
+1,2389,Spencer Maass,Spencer Maass,9866668
+1,2389,Charles Jourdan,Charles Jourdan,9886823
+1,2389,Bush,Bush,9362968
+1,2388,Supreme Court,Supreme Court,9362719
+1,1011,Capitol,geonames_5643649,8900860
+1,1011,Delaware,geonames_4142224,8879385
+1,2389,Scott Shane @ScottShaneNYT,Scott Shane @ScottShaneNYT,10453805
+1,1011,British Columbia,geonames_5909050,8878554
+1,2388,Goldman Sachs,Goldman Sachs,9362730
+1,2388,Air Force,Air Force,9363144
+1,2388,Notting Hill Carnival,Notting Hill Carnival,9393226
+1,2388,Shea & Gould,Shea & Gould,9886774
+1,2388,liberal veterans group VoteVets.org,liberal veterans group VoteVets.org,22580697
+1,2389,Alan Blinder,Alan Blinder,9459476
+1,2388,Trump administration,Trump administration,9362998
+1,1011,Brussels,geonames_4234671,8878622
+1,2388,Trump housing,Trump housing,9643403
+1,2388,Democrats,Democrats,9363166
+1,2388,Ocean Bank,Ocean Bank,11366768
+1,2389,Trump Tower,Trump Tower,9486862
+1,2389,Ville Marie,Ville Marie,9886827
+1,1963,wiretapping and other eavesdropping devices and methods,wiretapping and other eavesdropping devices and methods,9361322
+1,2388,Equitable Life Assurance Society,Equitable Life Assurance Society,9553355
+1,2388,Photo Credit Rolex Dela Pena/European Pressphoto Agency,Photo Credit Rolex Dela Pena/European Pressphoto Agency,18810369
+1,2388,CBS,CBS,9363631
+1,2389,KGK,KGK,10066333
+1,1011,Central Park West,geonames_8062582,8881097
+1,2389,Conor McGregor,Conor McGregor,9413733
+1,2388,Macklowe Organization,Macklowe Organization,21562112
+1,2388,special House,special House,10572018
+1,2389,Rachel Shorey,Rachel Shorey,9551825
+1,2389,Buccellati,Buccellati,9553365
+1,2389,Salman Rushdie,Salman Rushdie,9375396
+1,2389,Yuri Dubinin,Yuri Dubinin,9491456
+1,2389,MUNIR KATUL Eugene,MUNIR KATUL Eugene,13111520
+1,2388,Harrah,Harrah,9469178
+1,2389,Fred Trump,Fred Trump,9380673
+1,1011,New Orleans,geonames_4335045,8879047
+1,2389,Lenin,Lenin,9365748
+1,2388,Breitbart,Breitbart,9402743
+1,2388,Equitable Life Insurance company,Equitable Life Insurance company,22466632
+1,2389,Mauricio Macri,Mauricio Macri,9387055
+1,2389,Paul D. Ryan,Paul D. Ryan,9364191
+1,2388,N.S.A.,N.S.A.,9365676
+1,2388,Lincoln,Lincoln,9484171
+1,2388,F.B.I.,F.B.I.,9363279
+1,1884,,all,9315663
+1,2389,Hitler,Hitler,9364504
+1,2388,Disney,Disney,9366536
+1,2389,Stephen K. Bannon,Stephen K. Bannon,9364186
+1,2388,Madison Avenue,Madison Avenue,10066324
+1,1011,Notting Hill,geonames_2641168,8879435
+1,2389,JAY N. FELDMAN,JAY N. FELDMAN,13111519
+1,2389,Walt Michaels,Walt Michaels,9474724
+1,2388,Walmart,Walmart,9363718
+1,2389,Paula Jones,Paula Jones,9435635
+1,2388,Chase Manhattan,Chase Manhattan,9456989
+1,1011,Scotland,geonames_2638360,8879119
+1,2389,James R. Clapper Jr.,James R. Clapper Jr.,9367525
+1,2389,Martha,Martha,9367077
+1,2389,Michael Flynn,Michael Flynn,9365623
+1,2388,State Department,State Department,9362865
+1,2388,Bertelsmann,Bertelsmann,9552774
+1,2388,Protestant,Protestant,9376774
+1,2388,Palm Beach Post,Palm Beach Post,9364691
+1,2388,Penn Central property,Penn Central property,9886758
+1,2389,Brown Harris Stevens,Brown Harris Stevens,9514608
+1,2388,Photo Credit Jason Henry for The New York Times,Photo Credit Jason Henry for The New York Times,18810371
+1,2389,Khan,Khan,9436399
+1,2388,Manufacturers Hanover Trust,Manufacturers Hanover Trust,9886733
+1,2388,Trump World,Trump World,9480703
+1,2389,Dick Cheney,Dick Cheney,9363393
+1,1963,intelligence,intelligence,9361297
+1,2388,Arkansas youth,Arkansas youth,18810377
+1,2388,Trumpism,Trumpism,9550359
+1,1011,London,geonames_4517009,8885316
+1,2389,Robert Griffin,Robert Griffin,9666411
+1,2389,bin Laden,bin Laden,9387501
+1,2388,Bolan & Manley,Bolan & Manley,9886773
+1,1011,Provinsi Bali,geonames_1650535,8880864
+1,1011,Connecticut,geonames_4831725,8878558
+1,2389,Melania,Melania,9365250
+1,2389,Wesley Morris,Wesley Morris,9422095
+1,1011,Yokosuka,geonames_1848313,8899288
+1,2388,Trump Palace,Trump Palace,9448172
+1,2389,Jeff,Jeff,9371784
+1,2389,Chuck Schumer,Chuck Schumer,9364810
+1,2388,Hezbollah,Hezbollah,9365378
+1,2389,Norman Vincent Peale,Norman Vincent Peale,9519298
+1,2388,Muslim nations,Muslim nations,9365610
+1,1963,buildings (structures),buildings (structures),9361355
+1,2389,Michael Barbaro,Michael Barbaro,9429361
+1,2389,Reagan,Reagan,9365068
+1,2388,House,House,9363164
+1,2389,Donald Trump Jr.,Donald Trump Jr.,9362977
+1,2389,Diane von Furstenberg,Diane von Furstenberg,9407272
+1,2389,Chris Van Hollen,Chris Van Hollen,9395178
+1,2389,Elise Fink,Elise Fink,21562117
+1,2388,Chase Manhattan Bank,Chase Manhattan Bank,9452411
+1,2389,Y. David Scharf,Y. David Scharf,9682799
+1,1963,computers and the internet,computers and the internet,9360839
+1,2388,Credit John Marshall Mantel for The New York Times,Credit John Marshall Mantel for The New York Times,10066323
+1,2388,Trump Grill,Trump Grill,9399860
+1,2389,James Comey,James Comey,9363012
+1,1011,Fayetteville,geonames_4466033,8882100
+1,2389,Fred C. Trump,Fred C. Trump,9446538
+1,2389,MATT FLEGENHEIMER,MATT FLEGENHEIMER,10067242
+1,2389,Alain Delaquérière,Alain Delaquérière,9518985
+1,2389,George Peacock,George Peacock,9553382
+1,2389,Corey Lewandowski,Corey Lewandowski,9365245
+1,2389,Ronald Reagan,Ronald Reagan,9362809
+1,2388,Bonwit Teller department,Bonwit Teller department,10048542
+1,2389,Rakeem Jones,Rakeem Jones,9736011
+1,1011,Tokyo,geonames_1850147,8878679
+1,2389,RADDATZ,RADDATZ,9603757
+1,2388,Democratic Senatorial Campaign Committee,Democratic Senatorial Campaign Committee,9363957
+1,1011,Philadelphia,geonames_5131095,9025449
+1,2388,Reuters,Reuters,9362267
+1,2389,Luis V. Gutiérrez,Luis V. Gutiérrez,9364196

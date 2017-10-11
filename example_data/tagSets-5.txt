@@ -1,0 +1,8 @@
+{
+  "description": "Curated collections of media sources.  This is our primary way of organizing our media sources -- almost every media source in our system is a member of one or more of these curated collections.  Some collections are manually curated, and others are generated using quantitative metrics.",
+  "label": "Collections",
+  "name": "collection",
+  "show_on_media": 0,
+  "show_on_stories": null,
+  "tag_sets_id": 5
+}
